@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Hello world!
 <<<<<<< HEAD
 Ewewewew
 =======
 Hi my name is seongryun
 >>>>>>> my_branch
+1 line
+2 line
+=======
+First line
+first line
+Second line
+>>>>>>> 102ca02 (First commit from new_branch)

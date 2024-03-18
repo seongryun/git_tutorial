@@ -4,3 +4,5 @@ Ewewewew
 =======
 Hi my name is seongryun
 >>>>>>> my_branch
+1 line
+2 line
